@@ -1,0 +1,22 @@
+{
+    "name": "pnxcard",
+    "version": "1.0.4",
+    "description": "npxcardAdrienCallewaert",
+    "main": "./index.js",
+    "bin": {
+        "pnxcard": "./index.js"
+    },
+    "scripts": {
+        "test": "spiderfish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AdrienCallewaert/pnxcard.git"
+    },
+    "author": "Adrien Callewaert",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AdrienCallewaert/pnxcard/issues"
+    },
+    "homepage": "https://github.com/AdrienCallewaert/pnxcard#readme"
+}
